@@ -1,0 +1,16 @@
+INSERT INTO `购买` VALUES ('123', '123456', 'Java', '2', '52', '2');
+INSERT INTO `购买` VALUES ('123', '4152', '红楼梦', '2', '41', '2');
+INSERT INTO `购买` VALUES ('12388', '123456', 'Java', '2', '52', '2');
+INSERT INTO `购买` VALUES ('1998', '123456', 'Java', '2', '52', '2');
+INSERT INTO `购买` VALUES ('4152', '4152', '红楼梦', '12', '41', '12');
+INSERT INTO `购买` VALUES ('5151', '123456', 'Java', '2', '52', '2');
+INSERT INTO `购买` VALUES ('52', '52', '522', '2', '52', '2');
+INSERT INTO `购买` VALUES ('5252', '4152', '红楼梦', '2', '41', '就是想');
+INSERT INTO `购买` VALUES ('5555', '123456', 'Java', '2', '52', '2');
+INSERT INTO `购买` VALUES ('747474', '19980305', '曾国藩的正面与反面', '2', '35', '南京');
+INSERT INTO `购买` VALUES ('8585', '123456', 'Java', '2', '52', '2');
+INSERT INTO `购买` VALUES ('刘小费', '14', '安娜卡列尼娜', '2', '52', '北京化工大学');
+INSERT INTO `购买` VALUES ('王五', '12315', '挚爱面包', '2', '38', '南京');
+INSERT INTO `购买` VALUES ('钱鹏', '123456', 'Java', '2', '52', '2');
+INSERT INTO `购买` VALUES ('马云', '123456', 'Java', '2', '52', '2');
+INSERT INTO `购买` VALUES ('马云', '4152', '红楼梦', '2', '41', '2');
